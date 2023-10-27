@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sunilkumar/workspace/datapipe/notebooks/MLflow-basics/MLflow-basics/mlruns/0/2dc2b000b1fd41088557dfd0bb5f16f5/artifacts
+end_time: 1697726704254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2dc2b000b1fd41088557dfd0bb5f16f5
+run_name: unleashed-tern-547
+run_uuid: 2dc2b000b1fd41088557dfd0bb5f16f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697726702428
+status: 3
+tags: []
+user_id: sunilkumar
